@@ -1,0 +1,16 @@
+.nav{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(249,249,250) ;
+    padding: 20px 50px;
+    box-sizing: border-box;
+    border-top: 2px solid rgba(0, 0, 0, 0.2)
+}
+.nav__list {
+    display: flex;
+    justify-content: space-between;
+}
+.nav__link{
+    color: #2e363e;
+}
